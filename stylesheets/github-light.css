@@ -91,7 +91,7 @@
   background-size: auto auto;  -webkit-background-clip: padding-box;
   background-clip: padding-box;  
   background-attachment: fixed;  
-  background-repeat: no-repeat;  
+  background-repeat: repeat;  
   background-color: rgb(204, 0, 0);
 }
 
